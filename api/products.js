@@ -1,6 +1,4 @@
-// Archivo products.js para despliegue en Vercel
 
-// Datos de ejemplo
 const products = [
     { sku: "SKU123", regular_price: 19.99 },
     { sku: "SKU124", regular_price: 25.50 },
